@@ -3,4 +3,4 @@ Practice repository
 
 Hello
 
-I'm Chris and this is a simple little test to get a feel for how Github works following the tutorial.
+This is only a test, had this been a real hello, you would have heard it in person.
